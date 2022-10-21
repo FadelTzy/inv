@@ -1,0 +1,1 @@
+<img width="20%" class="mx-auto" src="{{ asset('file/logotransparan.png') }}" alt="">
